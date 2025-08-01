@@ -21,7 +21,7 @@ These notebooks include features such as descriptive analysis techniques (Step1)
 
 ## Licences
 
-Survey data: from the SCALAR-Team within the European Research Council (ERC) project under the European Union’s Horizon 2020 Research and Innovation Program (grant agreement no. 758014). 
+Survey data: from the SCALAR-Team within the European Research Council (ERC) project under the European Union’s Horizon 2020 Research and Innovation Program (grant agreement no. 758014). The survey data and additional explanation can be found here: https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/DANS-X9H-NJ3W
 
 All MSOA names: House of Commons under the Open Parliament Licence v3.0 (https://www.parliament.uk/site-information/copyright/open-parliament-licence)
 
