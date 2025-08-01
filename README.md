@@ -18,5 +18,10 @@ These notebooks include features such as descriptive analysis techniques (Step1)
 ## Licences
 
 Survey data: from the SCALAR-Team within the European Research Council (ERC) project under the European Union’s Horizon 2020 Research and Innovation Program (grant agreement no. 758014). 
+All MSOA names: House of Commons under the Open Parliament Licence v3.0 (https://www.parliament.uk/site-information/copyright/open-parliament-licence)
+UK Data Service Census Support boundary dataset (geodata) : UK Open Government Licence v3 (https://ukdataservice.ac.uk/)
+Statistical GIS Boundary files from the Greater London Authority (geodata): under the terms of the Open Government Licence (OGL) and UK Government Licensing Framework (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
+
 
 
